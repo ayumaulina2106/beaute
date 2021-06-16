@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.beaute">
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <uses-feature android:name="android.hardware.type.watch" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Beaute">
+        <activity android:name=".CosrxActivity"
+            android:parentActivityName=".FacialwashActivity"
+            ></activity>
+        <activity
+            android:name=".HairActivity"
+            android:parentActivityName=".dashboardActivity" />
+        <activity
+            android:name=".MicellarActivity"
+            android:parentActivityName=".dashboardActivity" />
+        <activity
+            android:name=".LotionActivity"
+            android:parentActivityName=".dashboardActivity" />
+        <activity
+            android:name=".MosturizeActivity"
+            android:parentActivityName=".dashboardActivity" />
+        <activity
+            android:name=".SunscreenActivity"
+            android:parentActivityName=".dashboardActivity" />
+        <activity
+            android:name=".SerumActivity"
+            android:parentActivityName=".dashboardActivity" />
+        <activity
+            android:name=".TonerActivity"
+            android:parentActivityName=".dashboardActivity" />
+        <activity
+            android:name=".FacialwashActivity"
+            android:parentActivityName=".dashboardActivity" />
+        <activity android:name=".dashboardActivity" />
+        <activity android:name=".MainActivity4" />
+        <activity android:name=".MainActivity3" />
+        <activity
+            android:name=".MainActivity2"
+            android:label="@string/title_activity_main2" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name"> </string>
+    <string name="title_activity_main2"> </string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+
+    <string name="cosrxrincian">"Cosrx Low Ph Good Morning Gel Cleanser memiliki tekstur gel yang lembut, kadar Ph dari cleanser ini hampir sama dengan kadar Ph dari kulit wajah kita. Jadi bagi kamu yang memiliki kulit sensitif kamu bisa menggunakan cleanser ini ya.\n\nOSRX LOW PH GOOD MORNING GEL CLEANSER merupakan pembersih wajah yang digunakan untuk menenangkan, mengeksfoliasi, melembapkan sekaligus membersihkan kulit wajah. Kandungan pada produk ini memiliki kadar acid yang mirip dengan kadar pH kulit sehingga efektif membersihkan wajah menjadi bersih dan segar.\n\nMengandung Komposisi
+Water, Cocamidopropyl Betaine, Sodium Lauroyl Methyl Isethionate, Polysorbate 20, Styrax Japonicus Branch/Fruit/Leaf Extract, Butylene Glycol, Saccharomyces Ferment, Cryptomeria Japonica Leaf Extract, Nelumbo Nucifera Leaf Extract, Pinus Palustris Leaf Extract, Ulmus Davidiana Root Extract, Oenothera Biennis (Evening Primrose) Flower Extract, Pueraria Lobata Root Extract, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Allantoin, Caprylyl Glycol, Ethylhexylglycerin, Betaine Salicylate, Citric Acid, Ethyl Hexanediol, 1,2-Hexanediol, Trisodium Ethylenediamine Disuccinate, Sodium Benzoate, Disodium EDTA"
+</string>
+</resources>
